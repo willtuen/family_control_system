@@ -1,0 +1,15 @@
+server:
+  host: "0.0.0.0"
+  port: 5000
+
+mysql:
+  host: "192.168.1.7"
+  port: 3306
+  database: "family_time_control"
+  user: "kiduser"
+  password: "StrongPassword123!"
+  charset: "utf8mb4"
+
+security:
+  admin_token: "change_this_to_a_strong_random_string"
+  admin_password: "admin888"
