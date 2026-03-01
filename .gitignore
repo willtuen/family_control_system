@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# 其他建议忽略项
+*.log
+.env
+*.swp
+.DS_Store
